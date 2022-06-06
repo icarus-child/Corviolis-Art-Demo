@@ -16,7 +16,7 @@ The garbage bag on the right is an earlier attempt at using a hand painted displ
 I did some looking around for methods of hand painting normal maps, and I found [this](https://www.youtube.com/watch?v=gUkY8ZoRfuQ) youtube video on the topic by [ThePassiveAggressor](https://www.youtube.com/user/ThePassiveAggressor), which came with an invaluable reference image that could be used to sample colours for different light angles when painting the normal map.  
 Armed with this resource, I began on a more complete test environment to see how the lighting looked in action.  
 <img src="https://github.com/icarus-child/Corviolis-Art-Demo/blob/main/dock%20scene.png?raw=true" alt="dockscene.png" width="600"/>   
-The scene includes 3 light points, some slight fog, and a bit of global illumination. The focus of the scene was the rocks, as they are a collection of fairly complex organic shapes that without this method would have a terrible reception to dynamic lighting.
+The scene includes 3 light points, some slight fog, and a bit of global illumination. The focus of the scene was the rocks, as they are a collection of fairly complex organic shapes that, without this method, would have a terrible reception to dynamic lighting.
 | Lit from the left | Lit from the right |
 | --- | --- |
 | ![rocksleft.png](https://cdn.discordapp.com/attachments/913544690593320970/961616584592478298/unknown.png) | ![rocksright.png](https://cdn.discordapp.com/attachments/913544690593320970/961616496256229376/unknown.png) |  
